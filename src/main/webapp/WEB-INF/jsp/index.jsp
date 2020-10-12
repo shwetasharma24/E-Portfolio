@@ -121,7 +121,7 @@
                 </div>
                     <!----- projects-box-text ------->
                 <div class="p-b-text">
-                    <a href="#">
+                    <a href="https://github.com/shwetasharma24/Student-Performance-Analyser" target="_blank">
                         Helps analyze overall students' performance using R language. Insights from the data are visualized using Tableau dashboards and stories. 
                     </a>
                 </div>
