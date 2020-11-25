@@ -208,9 +208,9 @@
                     <font>Message</font>
                     <textarea name="message" cols="20" rows="5" placeholder="Write Your Message Here"></textarea>
                 </div>
-                    <!---submit--->
+                <!---submit--->
                                   
-               		<button id="button1" type="submit">Submit</button>    
+               	<button id="button1" type="submit">Submit</button>    
                 
             </div>
         </form>
